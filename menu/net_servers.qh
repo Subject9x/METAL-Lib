@@ -1,0 +1,16 @@
+/*
+METAL-Lib
+Author: Peter Roohr
+Date: 09/30/2021
+Overview: confident that server listing /joining funcs need their own file.
+once again, duplicating what i see in darkplaces source code.
+*/
+
+//globals
+float SERVERS_PAGE;
+
+//constants
+
+//functions
+
+void() Net_Slist_f();
