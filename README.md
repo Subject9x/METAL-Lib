@@ -14,6 +14,7 @@ then shared with release packages.
 
 Also included is documentation for implementing each of these main features into your existing quake mods.
 
+The full working example can be found in the game https://github.com/Subject9x/battleMETAL which I also developed.
 
 ### Requirements
 --------------------
